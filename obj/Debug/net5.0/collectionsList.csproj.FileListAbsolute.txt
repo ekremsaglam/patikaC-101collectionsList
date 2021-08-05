@@ -1,0 +1,16 @@
+C:\Users\ekrem\Documents\Codes\.NetCorePatika\collectionsList\bin\Debug\net5.0\collectionsList.exe
+C:\Users\ekrem\Documents\Codes\.NetCorePatika\collectionsList\bin\Debug\net5.0\collectionsList.deps.json
+C:\Users\ekrem\Documents\Codes\.NetCorePatika\collectionsList\bin\Debug\net5.0\collectionsList.runtimeconfig.json
+C:\Users\ekrem\Documents\Codes\.NetCorePatika\collectionsList\bin\Debug\net5.0\collectionsList.runtimeconfig.dev.json
+C:\Users\ekrem\Documents\Codes\.NetCorePatika\collectionsList\bin\Debug\net5.0\collectionsList.dll
+C:\Users\ekrem\Documents\Codes\.NetCorePatika\collectionsList\bin\Debug\net5.0\ref\collectionsList.dll
+C:\Users\ekrem\Documents\Codes\.NetCorePatika\collectionsList\bin\Debug\net5.0\collectionsList.pdb
+C:\Users\ekrem\Documents\Codes\.NetCorePatika\collectionsList\obj\Debug\net5.0\collectionsList.csproj.AssemblyReference.cache
+C:\Users\ekrem\Documents\Codes\.NetCorePatika\collectionsList\obj\Debug\net5.0\collectionsList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ekrem\Documents\Codes\.NetCorePatika\collectionsList\obj\Debug\net5.0\collectionsList.AssemblyInfoInputs.cache
+C:\Users\ekrem\Documents\Codes\.NetCorePatika\collectionsList\obj\Debug\net5.0\collectionsList.AssemblyInfo.cs
+C:\Users\ekrem\Documents\Codes\.NetCorePatika\collectionsList\obj\Debug\net5.0\collectionsList.csproj.CoreCompileInputs.cache
+C:\Users\ekrem\Documents\Codes\.NetCorePatika\collectionsList\obj\Debug\net5.0\collectionsList.dll
+C:\Users\ekrem\Documents\Codes\.NetCorePatika\collectionsList\obj\Debug\net5.0\ref\collectionsList.dll
+C:\Users\ekrem\Documents\Codes\.NetCorePatika\collectionsList\obj\Debug\net5.0\collectionsList.pdb
+C:\Users\ekrem\Documents\Codes\.NetCorePatika\collectionsList\obj\Debug\net5.0\collectionsList.genruntimeconfig.cache
